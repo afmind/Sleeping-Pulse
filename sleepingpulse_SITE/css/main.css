@@ -63,7 +63,7 @@ img {
 }
 .content_green {
   width: 100%;
-  background: RGBA(40, 105, 97, .6);
+  background: RGBA(40, 100, 107, .8);
   /*background: -webkit-linear-gradient(bottom, rgba(40, 105, 97, .5) 0%, rgba(40, 105, 97, 0) 100%);
   background: -o-linear-gradient(bottom, rgba(40, 105, 97, .5) 0%, rgba(40, 105, 97, 0) 100%);
   background: linear-gradient(to top, rgba(40, 105, 97, .5) 0%, rgba(40, 105, 97, 0) 100%);*/
